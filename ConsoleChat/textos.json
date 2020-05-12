@@ -1,0 +1,24 @@
+﻿{
+  "prueba": "Hola",
+  "Bienvenida": "Bienvenido al servidor de chat creado con websockets ",
+  "bienvenidaStr": "Bienvenido/a",
+  "bienvenidaUsuario": ", a partir de ahora puedes empezar a mandar mensajes en el chat",
+  "comandoSalir": "salir",
+  "ErrorPuerto": "El puerto proporcionado no es correcto",
+  "introduceNombreUsuario": "¿Cual es tu nombre de usuario?",
+  "mensajeInicioChat": "Ya puedes comenzar a chatear. Escribe el mensaje que quieras mandar :D. Si quieres cerrar el chat escribe el comando salir",
+  "modoCliente": "##########Conectado en modo cliente##########",
+  "modoServidor": "##########Conectado en modo servidor##########",
+  "peticionAlias": "Introduzca un alias para el chat",
+  "strFinConexionCliente": "=================Cliente Finaliza Conexión===========================",
+  "strGUID": "GUID",
+  "strIntentoConexionCliente": "Intentamos conertar con la dirección: ",
+  "strIP": "IP:",
+  "strMensajeChat": "[JSON chat mensaje]",
+  "strNuevaConexionCliente": "=================Nuevo Cliente conectado===========================",
+  "strPuerto": "Puerto:",
+  "strSeparador": "===========================================================",
+  "webSocketCerrado": "Se ha cerrado la comunicación con el websocket",
+  "webSocketError": "Se ha producido un error: "
+
+}
